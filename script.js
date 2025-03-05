@@ -6,4 +6,3 @@ function giaoThua(N) {
 
 
 console.log(giaoThua(3));
-// TEST
